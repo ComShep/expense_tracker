@@ -1,0 +1,1 @@
+Ссылка на демо приложения: https://comshep.github.io/expense_tracker/
